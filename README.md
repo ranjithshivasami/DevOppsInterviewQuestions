@@ -142,6 +142,4 @@ Security in DevOps (DevSecOps) is integrated into every stage of the development
 - **Auditing and monitoring** for suspicious activities.
 
 ---
-=======
-DevOppsInterviewQuestions
->>>>>>> da2673a7baaecf7ce73d496a402c3e6586de33a2
+
